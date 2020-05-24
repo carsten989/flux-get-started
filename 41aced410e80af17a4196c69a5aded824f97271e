@@ -1,0 +1,1 @@
+{"jobID":"4cf95a6d-f964-0db0-ff95-d269072af1b2","spec":{"type":"policy","cause":{"Message":"","User":"Carsten Schafer \u003cCarsten.Schafer@commscope.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
